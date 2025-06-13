@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="resources/" kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/jdk.jsobject.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/jfx.incubator.input.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/jfx.incubator.richtext.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/mysql-connector-j-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/jakarta.mail-2.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/jakarta.activation-2.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/eclipse-workspace/RestAutomation/lib/joda-time-2.10.14.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

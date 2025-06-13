@@ -1,0 +1,16 @@
+Gregorian Date: 12 - 04 - 2025
+Ethiopian Date : 04 - 08 - 2017
+
+Food Sales:                 0.00
+Juice Sales:                0.00
+HDS (hot drinks sales):     0.00
+SDS (soft drinks sales):    0.00
+-----------------------------------------
+Total:                      0.00
+Total:                      0.00
+Cash:                       0.00
+Difference:                 0.00
+
+Bank 1 (Taxed):             0.00
+TOT :                       0.00
+Bank 2 (Hidden):            0.00
